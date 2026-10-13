@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://valtellina-software.ch/sitemap.xml
+
+# Crawl delay (optional)
+Crawl-delay: 1
